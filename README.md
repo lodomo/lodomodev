@@ -1,2 +1,0 @@
-# lodomodev
-Portfolio
