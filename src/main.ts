@@ -233,7 +233,8 @@ document.querySelector<HTMLDivElement>("#footer")!.innerHTML = `
     <div id="speech-bubble" class="speech-bubble silkscreen-regular">
       <p>Hello, I'm Lorenzo. </p>
       <p>Please, check out my projects, learn a bit about me, and connect!</p>
-      <p><br>...Don't worry, I'm not an LLM</p>
+      <br>
+      <p class="smol">...Don't worry, I'm not an LLM!</p>
     </div>
   </div>
 `;
